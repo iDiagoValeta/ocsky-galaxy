@@ -42,7 +42,7 @@ css=(".s0,.s1,.s2,.s3{opacity:.25;animation:tw 12s ease-in-out infinite}.s1{anim
  "@keyframes shoot{0%{opacity:0;translate:0 0}1%{opacity:1}4%{opacity:0;translate:420px 196px}100%{opacity:0;translate:420px 196px}}"
  "@media (prefers-reduced-motion:reduce){*{animation:none!important}.m{display:none}}")
 svg=(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice"><defs><linearGradient id="tail"><stop offset="0" stop-color="#e0def4" stop-opacity="0"/><stop offset="1" stop-color="#e0def4" stop-opacity=".8"/></linearGradient></defs><style>{css}</style>{st}{met}'
- f'<svg width="1600" height="1000" viewBox="-130 -130 260 260" preserveAspectRatio="xMaxYMin meet" opacity="0.55"><g transform="rotate(-17) scale(1 0.5)"><g class="g">{body}</g></g></svg></svg>')
+ f'<svg width="1600" height="1000" viewBox="-130 -130 260 260" preserveAspectRatio="xMidYMid meet" opacity="0.45"><g transform="rotate(-17) scale(1 0.5)"><g class="g">{body}</g></g></svg></svg>')
 assert len(svg)<131072, len(svg)
 open("hooks/scene.ts","w").write("export const SCENE = `"+svg+"`\n")
 pass

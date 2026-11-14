@@ -4,7 +4,7 @@ A dark look for Claude Code in the desktop and mobile apps, after the galaxy bac
 [ocsky](https://github.com/iDiagoValeta/ocsky), a terminal view of opencode agents.
 
 - Colours from Rosé Pine (main), taken from the palette the Rosé Pine project publishes.
-- A spiral galaxy drawn as square grains on a grid sits in the top right corner. It turns once
+- A spiral galaxy drawn as square grains on a grid sits in the middle of the window. It turns once
   every four minutes, its grains fade out and back in by turns, faint stars twinkle around it and a shooting star crosses now and then.
 - With reduced motion turned on in the system, everything stands still.
 
