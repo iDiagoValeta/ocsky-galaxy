@@ -11,6 +11,8 @@ A dark look for Claude Code in the desktop and mobile apps, after the galaxy bac
 It sets the theme when a session starts and needs no setup. The terminal and editors draw no
 themes, so there it does nothing.
 
+![ocsky galaxy in the Claude desktop app](docs/screenshot.webp)
+
 ## Install
 
 At the prompt of a Claude Code terminal session:
