@@ -1,0 +1,13 @@
+{
+  "name": "ocsky-galaxy",
+  "description": "A Rosé Pine look for Claude Code with a slowly turning dotted galaxy",
+  "owner": {
+    "name": "iDiagoValeta"
+  },
+  "plugins": [
+    {
+      "name": "ocsky-galaxy",
+      "source": "./"
+    }
+  ]
+}

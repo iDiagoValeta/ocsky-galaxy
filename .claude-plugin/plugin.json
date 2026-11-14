@@ -1,0 +1,10 @@
+{
+  "name": "ocsky-galaxy",
+  "version": "0.1.0",
+  "description": "Rosé Pine look with a slowly turning dotted Milky Way, after ocsky's galaxy backdrop",
+  "license": "Apache-2.0",
+  "icon": "./.claude-plugin/icon.png",
+  "author": {
+    "name": "iDiagoValeta"
+  }
+}
